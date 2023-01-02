@@ -1,0 +1,77 @@
+
+body {
+    background-image: url(images/starbackground.png);
+    color: white;
+    text-align: center;
+}
+
+.logo {
+    display: flex;
+    max-width: 50%;
+   height: auto;
+   margin-right: 25%;
+   margin-left: 25%;
+   margin-top: 20px;
+}
+
+.name {
+    
+    display: flex;
+    max-width: 45%;
+    height: auto;
+    margin-right: 27.5%;
+    margin-left: 27.5%;
+    margin-bottom: 0px;
+    
+ }
+
+ .slogan {
+    display: flex;
+    height: auto;
+    max-width: 50%;
+    height: auto;
+    margin-right: 25%;
+    margin-left: 25%;
+    margin-bottom: 15px;
+    margin-top: 0px;
+
+ }
+
+ input {
+    
+    display: block;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    border-width: 0.1em;
+    margin: 1em;
+    padding: 1em;
+    text-decoration: none;
+    background-color: transparent;
+    text-align: center;
+ }
+
+.buttons {
+    font-size: 17px;
+    font-family:'Courier New', Courier, monospace;
+    width: 60%;
+    margin-right: 20%;
+    margin-left: 20%;
+    text-align: center;
+}
+
+
+.buttons:hover {
+    color: black;
+    background-color: white;
+    }
+
+.buttons:active {
+color: black;
+background-color: white;
+}
+
+.links {
+    margin-bottom: 50px;
+   
+}
